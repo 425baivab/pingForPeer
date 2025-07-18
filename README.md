@@ -1,2 +1,2 @@
 # pingForPeer
-A student-first community app with a ton features that help enhance peer to peer connection and community engagement.
+A student-first community app with a ton of features that help enhance peer to peer connection and community engagement.
